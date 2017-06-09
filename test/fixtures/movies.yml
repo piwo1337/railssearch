@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  references: 
+  foreign_key: MyString
+  'true': MyString
+  string: 
+
+two:
+  references: 
+  foreign_key: MyString
+  'true': MyString
+  string: 
